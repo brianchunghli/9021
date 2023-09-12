@@ -1,0 +1,13 @@
+{
+  "base_url": "/jupyter/v7huusach4g5ajp0oe6o5gsgpo/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 17,
+  "port": 16000,
+  "root_dir": "/home",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:16000/jupyter/v7huusach4g5ajp0oe6o5gsgpo/",
+  "version": "2.7.0"
+}

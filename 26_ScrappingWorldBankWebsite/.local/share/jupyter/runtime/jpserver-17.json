@@ -1,0 +1,13 @@
+{
+  "base_url": "/jupyter/btngrtduml79cn34cf0tvp8fj4/",
+  "hostname": "127.0.0.1",
+  "password": false,
+  "pid": 17,
+  "port": 16000,
+  "root_dir": "/home",
+  "secure": false,
+  "sock": "",
+  "token": "",
+  "url": "http://127.0.0.1:16000/jupyter/btngrtduml79cn34cf0tvp8fj4/",
+  "version": "2.7.0"
+}

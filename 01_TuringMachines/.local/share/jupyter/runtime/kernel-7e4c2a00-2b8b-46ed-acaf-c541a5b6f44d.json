@@ -1,0 +1,13 @@
+{
+  "shell_port": 34697,
+  "iopub_port": 59487,
+  "stdin_port": 55531,
+  "control_port": 57431,
+  "hb_port": 50767,
+  "ip": "127.0.0.1",
+  "key": "f27fc9aa-b18a47353d427ad3997288ec",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/Turing machines.ipynb"
+}
